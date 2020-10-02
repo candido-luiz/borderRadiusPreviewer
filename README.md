@@ -1,2 +1,3 @@
-# borderRadiusPreviewer
-Visualizar border radius aplicado a uma imagem.
+# Border Radius Previewer
+Visualizar border radius aplicado a uma imagem.  
+Ideia retirado do repositório [app-ideas](https://github.com/florinpop17/app-ideas).
