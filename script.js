@@ -45,3 +45,5 @@ function bottomRight(){
         bottomRightAtribute.innerText = "border-bottom-right-radius: " + bottom_Right.value + "px;"
     }
 }
+
+console.log("adicionado no teste");
